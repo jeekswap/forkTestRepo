@@ -1,0 +1,7 @@
+How to use the fork functionality in github
+--> goto github.com
+--> select a perticular repo
+--> on top right corner, select the fork option
+--> click on create a new fork
+--> clone the fork to local
+--> make changes and commit
